@@ -5,6 +5,12 @@ __pycache__/
 .env
 venv/
 .venv/
+venv
+venv/Include
+venv/Scripts
+venv/Lib
+venv/share
+venv/pyvenv.cgf
 
 # Jupyter
 .ipynb_checkpoints/
@@ -20,3 +26,4 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
