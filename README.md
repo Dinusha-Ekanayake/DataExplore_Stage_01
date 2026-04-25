@@ -1,5 +1,14 @@
 # 🧠 Stroke Risk Prediction — DataXplore 2.0 Stage 01
 
+### *End-to-End Healthcare ML Pipeline with Explainability*
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-XGBoost-orange)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+![License](https://img.shields.io/badge/License-Academic-lightgrey)
+
+---
+
 > **Bayesian Minds** | University of Moratuwa  
 > DataXplore 2.0 Data Science Competition — Stage 01
 
